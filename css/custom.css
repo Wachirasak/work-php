@@ -1,0 +1,33 @@
+.container {
+  width: auto;
+  max-width: 1100px;
+  padding: 0 15px;
+  background-color: rgb(1, 26, 25);
+}
+
+.alert {
+  margin-top: 10px;
+}
+
+.img-responsive {
+  max-width: 100%;
+}
+
+body {
+  background-image: url("../media/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.row {
+  margin-top: 10px;
+}
+
+.navbar {
+  margin-top: 10px;
+}
+
+#iframe-score108 {
+  margin: 0px;
+  border: 1px solid #999;
+}
